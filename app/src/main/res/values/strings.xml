@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wisata</string>
+    <string name="titlememe">TitleMeme</string>
+    <string name="submeme">SubMeme</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
